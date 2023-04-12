@@ -15,6 +15,8 @@
 
 
 const { src, dest, series } = require('gulp');
+const buildTypes = require('./scripts/build-types');
+
 
 // The `build` function is exported so it is public and can be run with the `gulp` command.
 // It can also be used within the `series()` composition.
