@@ -30,6 +30,6 @@
     "gulp-util": "^3.0.6",
     "jscodeshift": "^0.14.0",
     "nuclide-node-transpiler": "0.7.1",
-    "through2": "^2.0.0"
+    "through2": "^4.0.0"
   }
 }
